@@ -1,0 +1,2502 @@
+{
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$Y/AcIvhUbbki76bqn6s0kub3PiZUS.p/QMpEy9jfiiSpmkUOUvSpG",
+      "nome": "Vitinho123",
+      "comfirmPassword": "bestPassw0rd",
+      "id": 1
+    },
+    {
+      "email": "oliier@mail.com",
+      "password": "$2a$10$1SYCIFyPEGG5/iCL28w7leP6v/OyE9480pJ1YOLx8oMzTaaQSlB8m",
+      "nome": "Vitinho123",
+      "comfirmPassword": "bestPassw0rd",
+      "id": 2
+    },
+    {
+      "email": "oliv@mail.com",
+      "password": "$2a$10$i5GoVgmL5/Acagh8JDHxI.hwkNstA5UWNW/6WrpQSJUadY8P7LkVy",
+      "nome": "oliva",
+      "comfirmPassword": "bestPassw0rd",
+      "img_url": "",
+      "id": 3
+    },
+    {
+      "email": "teste@mail.com",
+      "password": "$2a$10$6nuw4xkk0mOHDhjzXYXyeeihaVvQMJBnvfDZ1E3TVqirIrC6jwAvO",
+      "nome": "teste",
+      "comfirmPassword": "bestPassw0rd",
+      "img_url": "",
+      "id": 4
+    }
+  ],
+  "biblioteca": [
+    {},
+    {
+      "kind": "books#volume",
+      "id": "eZuDmwEACAAJ",
+      "etag": "bfeO6s9JLXs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eZuDmwEACAAJ",
+      "volumeInfo": {
+        "title": "O livro estreito",
+        "authors": [
+          "Caulos"
+        ],
+        "publishedDate": "2010",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8562500178"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788562500176"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 34,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=eZuDmwEACAAJ&dq=livro&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=eZuDmwEACAAJ&dq=livro&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/O_livro_estreito.html?hl=&id=eZuDmwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eZuDmwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "etag": "bfeO6s9JLXs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eZuDmwEACAAJ",
+      "volumeInfo": {
+        "title": "O livro estreito",
+        "authors": [
+          "Caulos"
+        ],
+        "publishedDate": "2010",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8562500178"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788562500176"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 34,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=eZuDmwEACAAJ&dq=livro&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=eZuDmwEACAAJ&dq=livro&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/O_livro_estreito.html?hl=&id=eZuDmwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eZuDmwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "id": "sig0uk4"
+    },
+    {
+      "kind": "books#volume",
+      "etag": "bfeO6s9JLXs",
+      "id": 123,
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eZuDmwEACAAJ",
+      "volumeInfo": {
+        "title": "O livro estreito",
+        "authors": [
+          "Caulos"
+        ],
+        "publishedDate": "2010",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8562500178"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788562500176"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 34,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=eZuDmwEACAAJ&dq=livro&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=eZuDmwEACAAJ&dq=livro&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/O_livro_estreito.html?hl=&id=eZuDmwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eZuDmwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "etag": "bfeO6s9JLXs",
+      "id": 1234,
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eZuDmwEACAAJ",
+      "volumeInfo": {
+        "title": "O livro estreito",
+        "authors": [
+          "Caulos"
+        ],
+        "publishedDate": "2010",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8562500178"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788562500176"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 34,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=eZuDmwEACAAJ&dq=livro&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=eZuDmwEACAAJ&dq=livro&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/O_livro_estreito.html?hl=&id=eZuDmwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eZuDmwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ],
+  "listaDeDesejos": [
+    {},
+    {
+      "text": "blabla",
+      "id": 5
+    },
+    {
+      "text": "blabla",
+      "id": 6
+    },
+    {
+      "kind": "books#volume",
+      "id": "43otAAAAYAAJ",
+      "etag": "R7OGdA14STk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/43otAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Livro aberto",
+        "authors": [
+          "Fernando Tavares Sabino"
+        ],
+        "publishedDate": "2001",
+        "description": "Avisartikler fra perioden 1939-1999",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173011896545"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 656,
+        "printType": "BOOK",
+        "categories": [
+          "Authors, Brazilian"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=43otAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=43otAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=43otAAAAYAAJ&q=livro&dq=livro&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=43otAAAAYAAJ&dq=livro&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Livro_aberto.html?hl=&id=43otAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=43otAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Avisartikler fra perioden 1939-1999"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "etag": "R7OGdA14STk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/43otAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Livro aberto",
+        "authors": [
+          "Fernando Tavares Sabino"
+        ],
+        "publishedDate": "2001",
+        "description": "Avisartikler fra perioden 1939-1999",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173011896545"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 656,
+        "printType": "BOOK",
+        "categories": [
+          "Authors, Brazilian"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=43otAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=43otAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=43otAAAAYAAJ&q=livro&dq=livro&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=43otAAAAYAAJ&dq=livro&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Livro_aberto.html?hl=&id=43otAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=43otAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Avisartikler fra perioden 1939-1999"
+      },
+      "id": 7
+    },
+    {
+      "kind": "books#volume",
+      "etag": "R7OGdA14STk",
+      "uuid": 3,
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/43otAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Livro aberto",
+        "authors": [
+          "Fernando Tavares Sabino"
+        ],
+        "publishedDate": "2001",
+        "description": "Avisartikler fra perioden 1939-1999",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173011896545"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 656,
+        "printType": "BOOK",
+        "categories": [
+          "Authors, Brazilian"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=43otAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=43otAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=43otAAAAYAAJ&q=livro&dq=livro&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=43otAAAAYAAJ&dq=livro&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Livro_aberto.html?hl=&id=43otAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=43otAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Avisartikler fra perioden 1939-1999"
+      },
+      "id": 8
+    },
+    {
+      "kind": "books#volume",
+      "etag": "bfeO6s9JLXs",
+      "uuid": 3,
+      "id": 1234,
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eZuDmwEACAAJ",
+      "volumeInfo": {
+        "title": "O livro estreito",
+        "authors": [
+          "Caulos"
+        ],
+        "publishedDate": "2010",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8562500178"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788562500176"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 34,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=eZuDmwEACAAJ&dq=livro&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=eZuDmwEACAAJ&dq=livro&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/O_livro_estreito.html?hl=&id=eZuDmwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eZuDmwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ],
+  "livros": [
+    {
+      "kind": "books#volume",
+      "id": "R7KuDwAAQBAJ",
+      "etag": "oriZYqiw0hw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/R7KuDwAAQBAJ",
+      "volumeInfo": {
+        "title": "O Senhor dos Anéis: A Sociedade do Anel",
+        "authors": [
+          "J.R.R. Tolkien"
+        ],
+        "publisher": "HARLEQUIN",
+        "publishedDate": "2019-11-25",
+        "description": "A Sociedade do Anel O volume inicial de O Senhor dos Anéis, lançado originalmente em julho de 1954, foi o primeiro grande épico de fantasia moderno, conquistando milhões de leitores e se tornando o padrão de referência para todas as outras obras do gênero até hoje. A imaginação prodigiosa de J.R.R. Tolkien e seu conhecimento profundo das antigas mitologias da Europa permitiram que ele criasse um universo tão complexo e convincente quanto o mundo real. A Sociedade do Anel começa no Condado, a região rural do oeste da Terra-média onde vivem os diminutos e pacatos hobbits. Bilbo Bolseiro, um dos raros aventureiros desse povo, cujas peripécias foram contadas em O Hobbit, resolve ir embora do Condado e deixa sua considerável herança nas mãos de seu jovem parente Frodo. O mais importante legado de Bilbo é o anel mágico que costumava usar para se tornar invisível. No entanto, o mago Gandalf, companheiro de aventuras do velho hobbit, revela a Frodo que o objeto é o Um Anel, a raiz do poder demoníaco de Sauron, o Senhor Sombrio, que deseja escravizar todos os povos da Terra-média. A única maneira de eliminar a ameaça de Sauron é destruir o Um Anel nas entranhas da própria montanha de fogo onde foi forjado. A revelação faz com que Frodo e seus companheiros hobbits Sam, Merry e Pippin deixem a segurança do Condado e iniciem uma perigosa jornada rumo ao leste. Ao lado de representantes dos outros Povos Livres que resistem ao Senhor Sombrio, eles formam a Sociedade do Anel. Alguém uma vez disse que o mundo dos leitores de língua inglesa se divide entre os que já leram O Senhor dos Anéis e os que um dia lerão o livro. Com esta nova tradução da obra, o fascínio dessa aventura atemporal ficará ainda mais evidente para os leitores brasileiros, tanto os que já conhecem a saga como os que estão prestes a descobrir seu encanto.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788595086333"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8595086338"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 576,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.9.10.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=R7KuDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=R7KuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=R7KuDwAAQBAJ&printsec=frontcover&dq=senhor+dos+aneis&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=R7KuDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=R7KuDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 49.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 47.4,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=R7KuDwAAQBAJ&rdid=book-R7KuDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 49900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 47400000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_Senhor_dos_An%C3%A9is_A_Sociedade_do_Anel-sample-epub.acsm?id=R7KuDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=R7KuDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A imaginação prodigiosa de J.R.R. Tolkien e seu conhecimento profundo das antigas mitologias da Europa permitiram que ele criasse um universo tão complexo e convincente quanto o mundo real."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nkD1QgAACAAJ",
+      "etag": "dXcOEsmleGY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nkD1QgAACAAJ",
+      "volumeInfo": {
+        "title": "Senhor Dos Aneis - 01 - Capa Nova",
+        "authors": [
+          "John Ronald Reuel Tolkien"
+        ],
+        "publisher": "Martins Martins Fontes",
+        "publishedDate": "2002",
+        "description": "'A Sociedade do Anel' é a primeira parte da obra de ficção de J. R. R. Tolkien. Numa cidadezinha indolente do Condado, um jovem hobbit é encarregado de uma imensa tarefa. Deve empreender uma perigosa viagem através da Terra-média até as Fendas da Perdição, e lá destruir o Anel do Poder - a única coisa que impede o domínio maléfico do Senhor do Escuro.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8533615558"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788533615557"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 566,
+        "printType": "BOOK",
+        "categories": [
+          "Baggins, Frodo (Fictitious character)"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=nkD1QgAACAAJ&dq=senhor+dos+aneis&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=nkD1QgAACAAJ&dq=senhor+dos+aneis&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Senhor_Dos_Aneis_01_Capa_Nova.html?hl=&id=nkD1QgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nkD1QgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FubLzgEACAAJ",
+      "etag": "XKiZo82Qmo4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FubLzgEACAAJ",
+      "volumeInfo": {
+        "title": "A sociedade do anel",
+        "authors": [
+          "John Ronald Reuel Tolkien"
+        ],
+        "publishedDate": "2019",
+        "description": "\"O volume inicial de O Senhor dos Anéis, lançado originalmente em julho de 1954, foi o primeiro grande épico de fantasia moderno, conquistando milhões de leitores e se tornando o padrão de referência para todas as outras obras do gênero até hoje. A imaginação prodigiosa de J.R.R. Tolkien e seu conhecimento profundo das antigas mitologias da Europa permitiram que ele criasse um universo tão complexo e convincente quanto o mundo real. A Sociedade do Anel começa no Condado, a região rural do oeste da Terra-média onde vivem os diminutos e pacatos hobbits. Bilbo Bolseiro, um dos raros aventureiros desse povo, cujas peripécias foram contadas em O Hobbit, resolve ir embora do Condado e deixa sua considerável herança nas mãos de seu jovem parente Frodo. O mais importante legado de Bilbo é o anel mágico que costumava usar para se tornar invisível. No entanto, o mago Gandalf, companheiro de aventuras do velho hobbit, revela a Frodo que o objeto é o Um Anel, a raiz do poder demoníaco de Sauron, o Senhor Sombrio, que deseja escravizar todos os povos da Terra-média. A única maneira de eliminar a ameaça de Sauron é destruir o Um Anel nas entranhas da própria montanha de fogo onde foi forjado. A revelação faz com que Frodo e seus companheiros hobbits Sam, Merry e Pippin deixem a segurança do Condado e iniciem uma perigosa jornada rumo ao leste. Ao lado de representantes dos outros Povos Livres que resistem ao Senhor Sombrio, eles formam a Sociedade do Anel.\"--",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8595084750"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788595084759"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 604,
+        "printType": "BOOK",
+        "categories": [
+          "Middle Earth (Imaginary place)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=FubLzgEACAAJ&dq=senhor+dos+aneis&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=FubLzgEACAAJ&dq=senhor+dos+aneis&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_sociedade_do_anel.html?hl=&id=FubLzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FubLzgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A Sociedade do Anel começa no Condado, a região rural do oeste da Terra-média onde vivem os diminutos e pacatos hobbits."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SbKuDwAAQBAJ",
+      "etag": "2q8SpTLrU9w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SbKuDwAAQBAJ",
+      "volumeInfo": {
+        "title": "O Senhor dos Anéis: O retorno do rei",
+        "authors": [
+          "J.R.R. Tolkien"
+        ],
+        "publisher": "HARLEQUIN",
+        "publishedDate": "2019-11-25",
+        "description": "O Retorno do Rei A guerra entre os Povos Livres da Terra-média e Sauron, o Senhor Sombrio da terra de Mordor, chega a seu clímax neste terceiro volume do romance O Senhor dos Anéis. As batalhas grandiosas que estão prestes a acontecer, no entanto, são apenas o pano de fundo para o verdadeiro drama: a missão quase suicida dos hobbits Frodo e Sam, que tentam destruir o Um Anel, fonte do poder de Sauron, infiltrando-se no coração do território do Inimigo. Em O Retorno do Rei, acompanhamos o mago Gandalf e o hobbit Pippin em sua visita à a majestosa cidade de Minas Tirith, que já foi o principal baluarte dos Homens contra a ameaça de Sauron, mas que está prestes a sucumbir diante da força avassaladora do Senhor Sombrio. Outros membros da Sociedade do Anel se juntam a Aragorn, herdeiro da longa linhagem dos reis de Minas Tirith, na tentativa de evitar que a antiga capital do reino de Gondor seja destruída. Nas fronteiras de Mordor, Sam resgata Frodo, e os dois hobbits partem para o último estágio de sua jornada rumo ao Monte da Perdição, uma jornada que testará os limites do corpo e da mente dos pequenos heróis. O livro inclui ainda numerosos apêndices, nos quais Tolkien explora detalhes da história, das línguas, dos alfabetos e até dos calendários de seu mundo ficcional.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788595086371"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8595086370"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 528,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.7.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SbKuDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SbKuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=SbKuDwAAQBAJ&printsec=frontcover&dq=senhor+dos+aneis&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=SbKuDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=SbKuDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 49.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 47.4,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=SbKuDwAAQBAJ&rdid=book-SbKuDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 49900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 47400000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_Senhor_dos_An%C3%A9is_O_retorno_do_rei-sample-epub.acsm?id=SbKuDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SbKuDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "O Retorno do Rei A guerra entre os Povos Livres da Terra-média e Sauron, o Senhor Sombrio da terra de Mordor, chega a seu clímax neste terceiro volume do romance O Senhor dos Anéis."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eVevDwAAQBAJ",
+      "etag": "//Gpab7Qaug",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eVevDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Box Trilogia O Senhor dos Anéis",
+        "authors": [
+          "J.R.R. Tolkien"
+        ],
+        "publisher": "HARLEQUIN",
+        "publishedDate": "2019-11-25",
+        "description": "Apesar de ter sido publicado em três volumes – A Sociedade do Anel, As Duas Torres e O Retorno do Rei – desde os anos 1950, O Senhor dos Anéis não é exatamente uma trilogia, mas um único grande romance que só pode ser compreendido em seu conjunto, segundo a concepção de seu autor, J.R.R. Tolkien. Com design cuidadosamente pensado para refletir a unidade da obra e os desenhos originais feitos por Tolkien para as capas de cada volume, este box reúne os três livros da Saga do Anel e oferece aos leitores uma nova oportunidade de mergulhar no notável mundo da Terra-média.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788595086364"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8595086362"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 1568,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.10.9.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eVevDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eVevDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=eVevDwAAQBAJ&printsec=frontcover&dq=senhor+dos+aneis&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=eVevDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=eVevDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 129.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 123.4,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=eVevDwAAQBAJ&rdid=book-eVevDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 129900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 123400000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Box_Trilogia_O_Senhor_dos_An%C3%A9is-sample-epub.acsm?id=eVevDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eVevDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Apesar de ter sido publicado em três volumes – A Sociedade do Anel, As Duas Torres e O Retorno do Rei – desde os anos 1950, O Senhor dos Anéis não é exatamente uma trilogia, mas um único grande romance que só pode ser compreendido ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fsDBjgEACAAJ",
+      "etag": "kuHc/OuzzGA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fsDBjgEACAAJ",
+      "volumeInfo": {
+        "title": "O Senhor dos Anéis",
+        "subtitle": "O regresso do Rei",
+        "authors": [
+          "J. R. R. Tolkien"
+        ],
+        "publishedDate": "2002",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9721041548"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789721041547"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 450,
+        "printType": "BOOK",
+        "categories": [
+          "Popular literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=fsDBjgEACAAJ&dq=senhor+dos+aneis&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=fsDBjgEACAAJ&dq=senhor+dos+aneis&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/O_Senhor_dos_An%C3%A9is.html?hl=&id=fsDBjgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fsDBjgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A história de O Senhor dos Anéis ocorre em um tempo e espaço imaginários, a Terceira Era da Terra Média, que é um mundo inspirado na Terra real, mais especificamente, segundo Tolkien, numa Europa mitológica, habitado por Humanos e ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TcSOPgAACAAJ",
+      "etag": "DB4KTEvmwyk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TcSOPgAACAAJ",
+      "volumeInfo": {
+        "title": "Senhor Dos Aneis - Volume Unico",
+        "authors": [
+          "John Ronald Reuel Tolkien"
+        ],
+        "publisher": "Martins Martins Fontes",
+        "publishedDate": "2001",
+        "description": "Alternadamente cômica, singela, épica, monstruosa e diabólica, a narrativa deste livro desenvolve-se em meio a inúmeras mudanças de cenários e de personagens, num mundo imaginário convincente em seus detalhes. Tolkien criou em 'O Senhor dos Anéis' uma nova mitologia, num mundo inventado que demonstrou possuir um poder de atração atemporal. Este livro reúne em um único volume as três partes da trilogia 'O Senhor dos Anéis' - 'A Sociedade do Anel', 'As duas torres', 'O retorno do rei'.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8533613407"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788533613409"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1202,
+        "printType": "BOOK",
+        "averageRating": 4,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=TcSOPgAACAAJ&dq=senhor+dos+aneis&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=TcSOPgAACAAJ&dq=senhor+dos+aneis&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Senhor_Dos_Aneis_Volume_Unico.html?hl=&id=TcSOPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TcSOPgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wV3CZb-1HfoC",
+      "etag": "bKUUNPuJjXo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wV3CZb-1HfoC",
+      "volumeInfo": {
+        "title": "O Senhor Dos Anéis & Tolkein - O Poder Mágico Da Palavra",
+        "authors": [
+          "Rosa Sílvia López"
+        ],
+        "publisher": "Arte & Ciência",
+        "publishedDate": "2004",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8575321218"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788575321218"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 232,
+        "printType": "BOOK",
+        "categories": [
+          "Myth in literature"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wV3CZb-1HfoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wV3CZb-1HfoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.br/books?id=wV3CZb-1HfoC&printsec=frontcover&dq=senhor+dos+aneis&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=wV3CZb-1HfoC&dq=senhor+dos+aneis&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/O_Senhor_Dos_An%C3%A9is_Tolkein_O_Poder_M%C3%A1g.html?hl=&id=wV3CZb-1HfoC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_Senhor_Dos_An%C3%A9is_Tolkein_O_Poder_M%C3%A1g-sample-pdf.acsm?id=wV3CZb-1HfoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wV3CZb-1HfoC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "W65gOgAACAAJ",
+      "etag": "5c/l0n+CcaM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/W65gOgAACAAJ",
+      "volumeInfo": {
+        "title": "Senhor Dos Aneis, O - as Duas Torres - Vol 2",
+        "authors": [
+          "John Ronald Reuel Tolkien"
+        ],
+        "publisher": "Martins Martins Fontes",
+        "publishedDate": "2000",
+        "description": "'As Duas Torres' é a segunda parte da obra de ficção de J. R. R. Tolkien, 'O Senhor dos Anéis'. É impossível transmitir ao novo leitor todas as qualidades e o alcance do livro. Alternadamente cômica, singela, épica, monstruosa, diabólica, a narrativa desenvolve-se em meio a inúmeras mudanças de cenários e de personagens, num mundo imaginário absolutamente convincente em seus detalhes.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8533613385"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788533613386"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 373,
+        "printType": "BOOK",
+        "categories": [
+          "Baggins, Frodo (Fictitious character)"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=W65gOgAACAAJ&dq=senhor+dos+aneis&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=W65gOgAACAAJ&dq=senhor+dos+aneis&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Senhor_Dos_Aneis_O_as_Duas_Torres_Vol_2.html?hl=&id=W65gOgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=W65gOgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rIPGNAEACAAJ",
+      "etag": "SMjqR541ZFk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rIPGNAEACAAJ",
+      "volumeInfo": {
+        "title": "A cozinha do Senhor dos anéis",
+        "authors": [
+          "Ana da Costa Cabral"
+        ],
+        "description": "Tolkien criou a trilogia de 'O Senhor dos Anéis', um universo de raiz, a Terra Média e povoou-o com várias raças. E o que é que comiam essas raças? Este livro pretende disponibilizar informações da cozinha dos Hobbits, dos Elfos, dos Ents, dos Anões e dos Orcs e dos Homens. Receitas antigas, com um sabor místico e mágico para qualquer refeição.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9721053031"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789721053038"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 104,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=rIPGNAEACAAJ&dq=senhor+dos+aneis&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=rIPGNAEACAAJ&dq=senhor+dos+aneis&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_cozinha_do_Senhor_dos_an%C3%A9is.html?hl=&id=rIPGNAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rIPGNAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "E o que é que comiam essas raças? Este livro pretende disponibilizar informações da cozinha dos Hobbits, dos Elfos, dos Ents, dos Anões e dos Orcs e dos Homens."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zFXZPAAACAAJ",
+      "etag": "jmQ+s2yDtso",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zFXZPAAACAAJ",
+      "volumeInfo": {
+        "title": "Harry Potter e a Ordem da Fénix",
+        "authors": [
+          "J. K. Rowling"
+        ],
+        "publishedDate": "2003",
+        "description": "Este tem sido um Verão ainda mais insuportavel que o costume, para Harry Potter. Sozinho com os Dursleys, não consegue perceber por que razão Ron e Hermione lhe enviam respostas tão vagas as suas cartas... Isolado do mundo magico a que pertence, Harry segue atentamente os noticiarios, convencido de que até os Muggles se aperceberão de alguma coisa, se Lord Voldemort voltar a atacar... E é então que os acontecimentos se precipitam. Parece impossivel, mas, no bairro mais muggle do mundo muggle, Harry é emboscado por Dementors ! Para salvar a sua vida e a do primo Dudley, Harry não tem outra hipotese senão usar magia-mesmo sabendo que isso significara a sua expulsão mais que certa de Hogwarts. Enquanto o Ministério da Magia continua a não acreditar que o terrivel Senhor das Trevas esta de volta, Voldemort e os seus fieis Devoradores da Morte ja começaram a preparar o seu regresso ao poder. Porém, ha uma nova esperança : uma antiga Ordem secreta, da qual os pais de Harry fizeram parte, voltou a organizar-se-e Dumbledore esta atento. Harry Potter esta de volta para mais um ano cheio de perigos, suspense, revelações inesperadas-e, claro, magia ! Eis o tão aguardado quinto volume da série que tem vindo a encantar miudos e graudos no mundo inteiro, da autoria da incomparavel J.K. Rowling.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9722331000"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789722331005"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 750,
+        "printType": "BOOK",
+        "categories": [
+          "Hogwarts School of Witchcraft and Wizardry (Imaginary organization)"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 13,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=zFXZPAAACAAJ&dq=harry+potter&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=zFXZPAAACAAJ&dq=harry+potter&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_e_a_Ordem_da_F%C3%A9nix.html?hl=&id=zFXZPAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zFXZPAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Eis o tão aguardado quinto volume da série que tem vindo a encantar miudos e graudos no mundo inteiro, da autoria da incomparavel J.K. Rowling."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yjUQCwAAQBAJ",
+      "etag": "fHOSeJYfLRo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yjUQCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Harry Potter e o enigma do Príncipe",
+        "authors": [
+          "J.K. Rowling"
+        ],
+        "publisher": "Pottermore Publishing",
+        "publishedDate": "2015-12-08",
+        "description": "Lá estava, pairando no céu sobre a escola: o crânio verde flamejante com uma língua de cobra, a marca deixada pelos Comensais da Morte sempre que entravam em um prédio... sempre que matavam... Quando Dumbledore chega à Rua dos Alfeneiros numa certa noite de verão para buscar Harry Potter, a mão com que segura a varinha está enrugada e enegrecida, mas ele não revela o motivo. Segredos e suspeitas se espalham pelo Mundo Bruxo, e a própria Hogwarts não é mais segura. Harry está convencido de que Malfoy porta a Marca Negra: há um Comensal da Morte entre eles. Harry precisará de magia poderosa e amigos verdadeiros para explorar os segredos mais sombrios de Voldemort, e Dumbledore se prepara para encarar seu destino...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781781104057"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1781104050"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 655,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.12.15.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yjUQCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yjUQCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=yjUQCwAAQBAJ&printsec=frontcover&dq=harry+potter&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=yjUQCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yjUQCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 24.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 24.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=yjUQCwAAQBAJ&rdid=book-yjUQCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 24900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 24900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Harry_Potter_e_o_enigma_do_Pr%C3%ADncipe-sample-epub.acsm?id=yjUQCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Harry_Potter_e_o_enigma_do_Pr%C3%ADncipe-sample-pdf.acsm?id=yjUQCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yjUQCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Lá estava, pairando no céu sobre a escola: o crânio verde flamejante com uma língua de cobra, a marca deixada pelos Comensais da Morte sempre que entravam em um prédio... sempre que matavam."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qDYQCwAAQBAJ",
+      "etag": "e7xhsqQzUdk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qDYQCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Harry Potter e o prisioneiro de Azkaban",
+        "authors": [
+          "J.K. Rowling"
+        ],
+        "publisher": "Pottermore Publishing",
+        "publishedDate": "2015-12-08",
+        "description": "Bem-vindo ao ônibus Nôitibus Andante, o transporte de emergência para bruxos e bruxas perdidos. Basta esticar a mão da varinha, subir a bordo e podemos levá-lo aonde quiser.' Quando o ônibus Nôitibus Andante surge repentinamente da escuridão e solta um guincho de seu freio bem à sua frente, mais um ano nada normal em Hogwarts começa para Harry Potter. Sirius Black, assassino em série fugitivo e seguidor do Lorde Voldemort, está à solta - e dizem que está indo atrás de Harry. Em sua primeira aula de Adivinhação, a professora Trelawney vê um agouro de morte nas folhas do chá de Harry... Mas talvez a parte mais assustadora seja os Dementadores patrulhando os pátios da escola, com seus beijos que sugam a alma...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781781103708"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1781103704"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 456,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 2.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.12.16.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qDYQCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qDYQCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=qDYQCwAAQBAJ&printsec=frontcover&dq=harry+potter&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qDYQCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qDYQCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 24.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 24.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=qDYQCwAAQBAJ&rdid=book-qDYQCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 24900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 24900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Harry_Potter_e_o_prisioneiro_de_Azkaban-sample-epub.acsm?id=qDYQCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Harry_Potter_e_o_prisioneiro_de_Azkaban-sample-pdf.acsm?id=qDYQCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qDYQCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Bem-vindo ao ônibus Nôitibus Andante, o transporte de emergência para bruxos e bruxas perdidos."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GgQmDwAAQBAJ",
+      "etag": "r2Ldy5ZuFMw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GgQmDwAAQBAJ",
+      "volumeInfo": {
+        "title": "O universo de Harry Potter de A a Z",
+        "authors": [
+          "Aubrey Malone"
+        ],
+        "publisher": "HarperCollins Brasil",
+        "publishedDate": "2014-02-27",
+        "description": "Uma geração de crianças do mundo inteiro embarcou no Expresso de Hogwarts em direção a um mundo mágico cheio de criaturas incríveis, feitiços poderosos e aventuras inesquecíveis. Por anos, jovens atravessaram a plataforma 9 3⁄4 da estação King's Cross e criaram memórias extraordinárias na companhia de Harry, Rony e Hermione. Todo fã de Harry Potter gostaria de ter uma penseira para refrescar a mente e relembrar cada personagem, lugar ou criatura fantástica que aparece nas páginas escritas por J.K Rowling. Mas como se lembrar do nome dos feitiços e das maldições imperdoáveis? Ou das plantas da aula de Herbologia da senhora Sprout? Ou ainda dos lugares visitados com a ajuda do Mapa do Maroto? O universo de Harry Potter de A a Z permite reviver as recordações que marcaram a infância de muita gente, trazendo ainda curiosidades sobre a vida de J.K Rowling, o incrível sucesso da série, os filmes e seus atores. Inclui verbertes sobre todos os livros da série",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788595081437"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8595081433"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.22.23.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GgQmDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GgQmDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=GgQmDwAAQBAJ&printsec=frontcover&dq=harry+potter&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=GgQmDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GgQmDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 14.16,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=GgQmDwAAQBAJ&rdid=book-GgQmDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 14160000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_universo_de_Harry_Potter_de_A_a_Z-sample-epub.acsm?id=GgQmDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_universo_de_Harry_Potter_de_A_a_Z-sample-pdf.acsm?id=GgQmDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GgQmDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "O universo de Harry Potter de A a Z permite reviver as recordações que marcaram a infância de muita gente, trazendo ainda curiosidades sobre a vida de J.K Rowling, o incrível sucesso da série, os filmes e seus atores."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9TcQCwAAQBAJ",
+      "etag": "zFMhnB7g/GU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9TcQCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Harry Potter e a Ordem da Fênix",
+        "authors": [
+          "J.K. Rowling"
+        ],
+        "publisher": "Pottermore Publishing",
+        "publishedDate": "2015-12-08",
+        "description": "Você está compartilhando os pensamentos e emoções do Lorde das Trevas. O diretor acha que é desaconselhável que isto continue a acontecer. E quer que eu lhe ensine como fechar a mente ao Lorde das Trevas.' Tempos sombrios se abateram sobre Hogwarts. Depois do ataque dos Dementadores ao seu primo Dudley, Harry Potter sabe que Voldemort fará tudo para encontrá-lo. Muitos negam o retorno do Lorde das Trevas, mas Harry não está sozinho: uma ordem secreta se reúne no Largo Grimmauld para fazer frente às forças sombrias. Harry precisa permitir que o professor Snape o ensine a se proteger dos vorazes ataques de Voldemort à sua mente. Mas eles estão ficando cada vez mais fortes, e o tempo de Harry está acabando...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781781104040"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1781104042"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 997,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.13.15.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9TcQCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9TcQCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=9TcQCwAAQBAJ&printsec=frontcover&dq=harry+potter&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9TcQCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9TcQCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 24.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 24.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=9TcQCwAAQBAJ&rdid=book-9TcQCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 24900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 24900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Harry_Potter_e_a_Ordem_da_F%C3%AAnix-sample-epub.acsm?id=9TcQCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Harry_Potter_e_a_Ordem_da_F%C3%AAnix-sample-pdf.acsm?id=9TcQCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9TcQCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Você está compartilhando os pensamentos e emoções do Lorde das Trevas."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZDgQCwAAQBAJ",
+      "etag": "Va8gqVnLsBE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZDgQCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Harry Potter e o Cálice de Fogo",
+        "authors": [
+          "J.K. Rowling"
+        ],
+        "publisher": "Pottermore Publishing",
+        "publishedDate": "2015-12-08",
+        "description": "Haverá três tarefas, espaçadas durante o ano letivo, que servirão para testar os campeões de diferentes maneiras... sua perícia em magia, sua coragem, seus poderes de dedução e, naturalmente, sua capacidade de enfrentar o perigo.' O Torneio Tribruxo será realizado em Hogwarts. Apenas bruxos acima dos dezessete anos de idade podem se inscrever - mas isso não impede que Harry sonhe em vencer a competição. E então, no Dia das Bruxas, quando o Cálice de Fogo faz sua seleção, Harry se surpreende ao ver que seu nome é um dos que a taça mágica escolhe. Ele terá de enfrentar tarefas mortais, dragões e bruxos das trevas, mas com a ajuda de seus melhores amigos, Ron e Hermione, talvez ele consiga sair dessa - vivo!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781781103715"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1781103712"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 758,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.14.17.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZDgQCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZDgQCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=ZDgQCwAAQBAJ&printsec=frontcover&dq=harry+potter&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZDgQCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZDgQCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 24.9,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 24.9,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ZDgQCwAAQBAJ&rdid=book-ZDgQCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 24900000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 24900000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Harry_Potter_e_o_C%C3%A1lice_de_Fogo-sample-epub.acsm?id=ZDgQCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Harry_Potter_e_o_C%C3%A1lice_de_Fogo-sample-pdf.acsm?id=ZDgQCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZDgQCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Haverá três tarefas, espaçadas durante o ano letivo, que servirão para testar os campeões de diferentes maneiras... sua perícia em magia, sua coragem, seus poderes de dedução e, naturalmente, sua capacidade de enfrentar o perigo."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "H48jvgAACAAJ",
+      "etag": "m1/SiF+m+CU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/H48jvgAACAAJ",
+      "volumeInfo": {
+        "title": "HARRY POTTER E A CRIANÇA AMALDIÇOADA - PARTE 1 E 2",
+        "authors": [
+          "J. K. ROWLING",
+          "ANNA VICENTINI"
+        ],
+        "publishedDate": "2016-10-31",
+        "description": "Sempre foi difícil ser Harry Potter e não é mais fácil agora que ele é um sobrecarregado funcionário do Ministério da Magia, marido e pai de três crianças em idade escolar. Enquanto Harry lida com um passado que se recusa a ficar para trás, seu filho mais novo, Alvo, deve lutar com o peso de um legado de família que ele nunca quis. À medida que passado e presente se fundem de forma ameaçadora, ambos, pai e filho, aprendem uma incômoda verdade: às vezes as trevas vêm de lugares inesperados.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8532530427"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788532530424"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=H48jvgAACAAJ&dq=harry+potter&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=H48jvgAACAAJ&dq=harry+potter&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/HARRY_POTTER_E_A_CRIAN%C3%87A_AMALDI%C3%87OADA_P.html?hl=&id=H48jvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=H48jvgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It was always difficult being Harry Potter and it isn&#39;t much easier now that he is an overworked employee of the Ministry of Magic, a husband and father of three school-age children."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "za4sPwAACAAJ",
+      "etag": "/KwvLgeDcKA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/za4sPwAACAAJ",
+      "volumeInfo": {
+        "title": "Harry Potter e as relíquias da morte",
+        "authors": [
+          "J. K. Rowling",
+          "Lia Wyler"
+        ],
+        "publishedDate": "2007",
+        "description": "'Harry Potter e as relíquias da morte', de J.K. Rowling, é o sétimo e último livro da série. Voldemorte está cada vez mais forte e Harry Potter precisa encontrar e aniquilar as Horcruxes para enfraquecer o lorde e poder enfrentá-lo. Nessa busca desenfreada, contando apenas com os amigos Rony e Hermione, Harry descobre as Relíquias da Morte, que serão úteis na batalha do bem contra o mal.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8532522610"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788532522610"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 590,
+        "printType": "BOOK",
+        "categories": [
+          "Hogwarts School of Witchcraft and Wizardry (Imaginary organization)"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 9,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=za4sPwAACAAJ&dq=harry+potter&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=za4sPwAACAAJ&dq=harry+potter&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_e_as_rel%C3%ADquias_da_morte.html?hl=&id=za4sPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=za4sPwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Burdened with the dark, dangerous, and seemingly impossible task of locating and destroying Voldemort&#39;s remaining Horcruxes, Harry, feeling alone and uncertain about his future, struggles to find the inner strength he needs to follow the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FFfPzgEACAAJ",
+      "etag": "jxQapuiXkvY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FFfPzgEACAAJ",
+      "volumeInfo": {
+        "title": "Harry Potter e a Câmara Secreta",
+        "authors": [
+          "J. K. Rowling"
+        ],
+        "publishedDate": "2020",
+        "description": "When the Chamber of Secrets is opened again at the Hogwarts School for Witchcraft and Wizardry, second-year student Harry Potter finds himself in danger from a dark power that has once more been released on the school.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8532531776"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788532531773"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 287,
+        "printType": "BOOK",
+        "categories": [
+          "England"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=FFfPzgEACAAJ&dq=harry+potter&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=FFfPzgEACAAJ&dq=harry+potter&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_e_a_C%C3%A2mara_Secreta.html?hl=&id=FFfPzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FFfPzgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "When the Chamber of Secrets is opened again at the Hogwarts School for Witchcraft and Wizardry, second-year student Harry Potter finds himself in danger from a dark power that has once more been released on the school."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "11h7DwAAQBAJ",
+      "etag": "ccRJDJA3GcI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/11h7DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Harry Potter e a Criança Amaldiçoada - Partes Um e Dois",
+        "subtitle": "Guião oficial da peça de teatro",
+        "authors": [
+          "J.K. Rowling",
+          "John Tiffany",
+          "Jack Thorne"
+        ],
+        "publisher": "Pottermore Publishing",
+        "publishedDate": "2018-09-19",
+        "description": "HARRY POTTER E A CRIANÇA AMALDIÇOADA - O GUIÃO OFICIAL DA PRODUÇÃO TEATRAL ORIGINAL DE WEST END Foi sempre difícil ser Harry Potter e não é mais fácil agora que ele se tornou num muito atarefado funcionário do Ministério da Magia, casado e pai de três crianças em idade escolar. Enquanto Harry luta com um passado que se recusa a ficar para trás, o seu filho mais novo, Albus, tem de se debater com o peso de um legado familiar que nunca desejou. Quando o passado e o presente se cruzam, pai e filho confrontam-se com uma desconfortável verdade: por vezes as trevas vêm de lugares inesperados. Baseado numa nova história original de J.K. Rowling, John Tiffany e Jack Thorne, o guião da peça de teatro Harry Potter e a Criança Amaldiçoada foi publicado originalmente numa edição especial, em simultâneo com a estreia mundial desta peça de teatro no West End, em Londres, no verão de 2016. A peça causou sensação e recebeu louvores entusiásticos tanto do público como da crítica, enquanto que a edição do guião se tornou num bestseller imediato à escala global. Esta edição final e definitiva atualiza a edição anterior, cujo texto foi ligeiramente alterado desde a versão inicial. Inclui uma conversa entre John Tiffany e Jack Thorne, bem como a árvore genealógica da família Potter e uma cronologia do Mundo Mágico de Harry Potter.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781781105337"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1781105332"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 375,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=11h7DwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=11h7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "pt",
+        "previewLink": "http://books.google.com.br/books?id=11h7DwAAQBAJ&dq=harry+potter&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=11h7DwAAQBAJ&dq=harry+potter&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_e_a_Crian%C3%A7a_Amaldi%C3%A7oada_P.html?hl=&id=11h7DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=11h7DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Esta edição inclui o diálogo final e as direções de palco da peça original, em duas partes, uma peça de conversa entre o realizador John Tiffany e o dramaturgo Jack Thorne, a árvore genealógica dos Potter e uma cronologia de ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "43otAAAAYAAJ",
+      "etag": "Ui4DAt12BQ4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/43otAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Livro aberto",
+        "authors": [
+          "Fernando Tavares Sabino"
+        ],
+        "publishedDate": "2001",
+        "description": "Avisartikler fra perioden 1939-1999",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173011896545"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 656,
+        "printType": "BOOK",
+        "categories": [
+          "Authors, Brazilian"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=43otAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=43otAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=43otAAAAYAAJ&q=livro&dq=livro&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=43otAAAAYAAJ&dq=livro&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Livro_aberto.html?hl=&id=43otAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=43otAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Avisartikler fra perioden 1939-1999"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pje_wVDGKucC",
+      "etag": "AwEJeye61Us",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pje_wVDGKucC",
+      "volumeInfo": {
+        "title": "Livro,",
+        "publisher": "Atelie Editorial",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788574806006"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8574806005"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 226,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pje_wVDGKucC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pje_wVDGKucC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=pje_wVDGKucC&printsec=frontcover&dq=livro&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=pje_wVDGKucC&dq=livro&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Livro.html?hl=&id=pje_wVDGKucC"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Livro-sample-pdf.acsm?id=pje_wVDGKucC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pje_wVDGKucC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eZuDmwEACAAJ",
+      "etag": "cUJ0QCwaoTI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eZuDmwEACAAJ",
+      "volumeInfo": {
+        "title": "O livro estreito",
+        "authors": [
+          "Caulos"
+        ],
+        "publishedDate": "2010",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8562500178"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788562500176"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 34,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=eZuDmwEACAAJ&dq=livro&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=eZuDmwEACAAJ&dq=livro&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/O_livro_estreito.html?hl=&id=eZuDmwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eZuDmwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ec40P9WSB20C",
+      "etag": "3FXngtI8EVo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ec40P9WSB20C",
+      "volumeInfo": {
+        "title": "O livro dos pássaros mágicos",
+        "authors": [
+          "Heloisa Prieto"
+        ],
+        "publisher": "FTD Editora",
+        "publishedDate": "2011",
+        "description": "Este livro procura prestar uma homenagem a aves de diferentes culturas - sejam elas reais ou fantásticas. Entre elas, estão o íbis (poema português de Fernando Pessoa); o pássaro do trovão (lenda indígena norte-americana); o melro e o ouro (conto siberiano); o rouxinol (história sufi); as aves da Arca de Noé (história hebraica); o pássaro iworo (conto nigeriano); o fênix (história greco-romana); os abutres (lenda egípcia); e Txunô, a andorinha (conto brasileiro). (FTD Educação)",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8532275931"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788532275936"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 88,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ec40P9WSB20C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ec40P9WSB20C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.com.br/books?id=ec40P9WSB20C&printsec=frontcover&dq=livro&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.br/books?id=ec40P9WSB20C&dq=livro&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/O_livro_dos_p%C3%A1ssaros_m%C3%A1gicos.html?hl=&id=ec40P9WSB20C"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/O_livro_dos_p%C3%A1ssaros_m%C3%A1gicos-sample-pdf.acsm?id=ec40P9WSB20C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ec40P9WSB20C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Este livro procura prestar uma homenagem a aves de diferentes culturas - sejam elas reais ou fantásticas."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "C1PYDwAAQBAJ",
+      "etag": "12C9NEM//nA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/C1PYDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Lendo a Bíblia livro por livro",
+        "subtitle": "Um guia prático de estudo panorâmico da Bíblia",
+        "authors": [
+          "Dr. William Marty",
+          "Dr. Boyd Seevers"
+        ],
+        "publisher": "Vida Nova",
+        "publishedDate": "2020-03-23",
+        "description": "Uma visão panorâmica que facilita a compreensão de cada livro da Bíblia Ler a Bíblia pode ser intimidador para iniciantes e mesmo para cristãos de mais tempo. Composta de 66 \"livros\" que abrangem assuntos como história, instrução, poesia e profecia, ela continua a ser um best-seller depois de milhares de anos. Não poucas vezes, porém, é mal compreendida, mesmo por quem a lê regularmente. Neste guia de fácil leitura, dois respeitados professores da Bíblia o ajudarão a entender cada um dos livros das Escrituras. Os autores partem de uma linguagem não acadêmica e vão direto ao cerne da questão, concentrando-se em duas perguntas essenciais: O que a Bíblia diz? e Por que isso é importante? Lendo a Bíblia livro por livro é tanto para o leitor já familiarizado com as Escrituras quanto para aqueles que a estão lendo pela primeira vez. Ambos certamente terão uma compreensão melhor do que trata a Palavra de Deus e por que ela é o livro mais importante para a vida deles.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788527509787"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8527509784"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 302,
+        "printType": "BOOK",
+        "categories": [
+          "Religion"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=C1PYDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=C1PYDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt",
+        "previewLink": "http://books.google.com.br/books?id=C1PYDwAAQBAJ&printsec=frontcover&dq=livro&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=C1PYDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=C1PYDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "BR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 35,
+          "currencyCode": "BRL"
+        },
+        "retailPrice": {
+          "amount": 35,
+          "currencyCode": "BRL"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=C1PYDwAAQBAJ&rdid=book-C1PYDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 35000000,
+              "currencyCode": "BRL"
+            },
+            "retailPrice": {
+              "amountInMicros": 35000000,
+              "currencyCode": "BRL"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "BR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Lendo_a_B%C3%ADblia_livro_por_livro-sample-epub.acsm?id=C1PYDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com.br/books/download/Lendo_a_B%C3%ADblia_livro_por_livro-sample-pdf.acsm?id=C1PYDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C1PYDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Lendo a Bíblia livro por livro é tanto para o leitor já familiarizado com as Escrituras quanto para aqueles que a estão lendo pela primeira vez."
+      }
+    }
+  ],
+  "comentario": [
+    {
+      "comentario": "asshsyys sbasyaysa sybasbaybsbass nssjaas",
+      "id": 1
+    },
+    {
+      "comentario": "asshsyys sbasyaysa sybasbaybsbass nssjaas",
+      "id": 2
+    },
+    {
+      "comentario": "asshsyys sbasyaysa sybasbaybsbass nssjaas",
+      "id": 3
+    },
+    {
+      "comentario": "asshsyys sbasyaysa sybasbaybsbass nssjaas",
+      "uuid": 2,
+      "id": 4
+    }
+  ]
+}
